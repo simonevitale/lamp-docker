@@ -1,1 +1,4 @@
-<? echo "Hello Docker"; ?>
+<? 
+    echo "Hello Docker <br/><hr />";
+    phpinfo();
+?>
